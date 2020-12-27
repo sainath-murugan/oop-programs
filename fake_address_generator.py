@@ -37,5 +37,5 @@ for i in range(100):
  "Old Washermenpet","Meenakshiammanpet","Kondithope","Seven Wells (North)","Amman Koil","Muthialpet","Vallal Seethakadhi Nagar",	"Katchaleeswarar Nagar",])
  
  
- print(f"Name:{s1.random_name()} {s1.random_last_name()}\n phone number:{s1.phone_number()}\n address:{s1.random_city()},{s1.random_state()}\n pincode: {s1.pin_code()}\n Email:{s1.email_address()}")
+ print(f"Name:{s1.random_name()} {s1.random_last_name()}\n phone number:{s1.phone_number()}\n address:{s1.random_city()},{s1.random_state()}\n pincode: {s1.pin_code()}\n Email:{s1.email_address()}\n\n")
 
